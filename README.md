@@ -1,2 +1,3 @@
-# Hello-World
-Just started as a newbee and wishing feedbacks
+# PurchasingSystem
+Including username managing system, working using SQLITE3 system and utilizing SQLITECPP wrapper.
+
